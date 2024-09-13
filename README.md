@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=450&lines=Chương+Trình+Quản+Lý+Học+Sinh+Thi+Khối+A" alt="Typing SVG" /></a>
 </p>
 <div align="center">
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/username/quan_ly_hoc_sinh?labelColor=7AA2E3&color=97E7E1">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/CptDat9/quan_ly_hoc_sinh?labelColor=7AA2E3&color=97E7E1">
 </div>
 
 ## Mô tả
